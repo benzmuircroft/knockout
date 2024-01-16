@@ -2,7 +2,7 @@
 
 Find out if the user is already running a server on the DHT and send them a boot out message before any login!
 
-# Installisation
+# Installation
 ```
 npm i "github:benzmuircroft/knockout"
 ```
