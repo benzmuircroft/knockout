@@ -11,3 +11,9 @@ npm i "github:benzmuircroft/knockout"
 ```js
 console.log(await knockout(b4a.from(publicKey, 'hex')));
 ```
+
+# Handling the punch
+```js
+// inside conection on data
+if (data.punch) quit(); // K.O quit the application
+``` 
